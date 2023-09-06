@@ -28,9 +28,9 @@ I am a versatilist and easily adapt to different hats (Web Developer 🌐, Block
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/trieungoctam/github-stats-transparent'>
   
-![Stats Overview](https://github.com/trieungoctam/trieungoctam/github-stats-transparent/output/generated/overview.svg)
+![Stats Overview](https://github.com/trieungoctam/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
