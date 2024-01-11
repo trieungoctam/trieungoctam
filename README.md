@@ -8,7 +8,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🌐, Block
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **CLB ProPTIT**
 - 🌱 &nbsp; I’m currently learning BackEnd and Blockchain; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
